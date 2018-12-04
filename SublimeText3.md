@@ -66,7 +66,7 @@ Reference https://www.youtube.com/watch?v=oHmPrjSzmwU&t=1031s.
 - [Git Gutter](https://packagecontrol.io/packages/GitGutter), show * in front of the line for git difference.
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr), comment extension tool.
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter), point out error before compile.
-- [Colorsublime](https://packagecontrol.io/packages/Colorsublime), change color of code instantly.
-	* Use "**Monokai**"!
+- [Colorsublime](https://packagecontrol.io/packages/Colorsublime), change color of code instantly. (Use "**Monokai**"!)
+- [MarkdownPreview](https://packagecontrol.io/packages/MarkdownPreview), preview .md on browser.
 
 <meta http-equiv="refresh" content="1">
