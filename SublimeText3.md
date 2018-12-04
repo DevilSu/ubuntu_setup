@@ -67,6 +67,6 @@ Reference https://www.youtube.com/watch?v=oHmPrjSzmwU&t=1031s.
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr), comment extension tool.
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter), point out error before compile.
 - [Colorsublime](https://packagecontrol.io/packages/Colorsublime), change color of code instantly. (Use "**Monokai**"!)
-- [MarkdownPreview](https://packagecontrol.io/packages/MarkdownPreview), preview .md on browser.
+- [MarkdownPreview](https://packagecontrol.io/packages/MarkdownPreview), preview ".md" file on browser.
 
 <meta http-equiv="refresh" content="1">
